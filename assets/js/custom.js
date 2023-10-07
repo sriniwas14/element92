@@ -1,7 +1,7 @@
 /* ==============
  ========= js documentation ==========================
 
- * theme name: Itify
+ * theme name: Element9
  * version: 1.0
  * description: Software Development & It Solutions
  * author: Pixelaxis
